@@ -1,4 +1,10 @@
 Hello 
+<<<<<<< HEAD
 I am a developer2
 I am from Bangalore
 I like traveling
+=======
+I am a developer1
+I am from chennai
+I like traveling and cooking
+>>>>>>> dev1_branch
